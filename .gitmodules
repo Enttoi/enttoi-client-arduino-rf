@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/yarivp/Enttoi---Arduino-Client
+[submodule "server"]
+	path = server
+	url = https://github.com/yarivp/Enttoi---Arduino-Server
