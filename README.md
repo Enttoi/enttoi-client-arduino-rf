@@ -1,6 +1,6 @@
-# Enttoi Adruino client
+# Enttoi Arduino client
 
-The client that built from two Adruino boards:
+The client that built from two Arduino boards:
 * First one installed in cabin itself and has sensors connected to it. This board
 sends state of sensor via RF transmitter to the second board. This one also called `client`.
 * Second one installed in place where LAN socket is available. RF receiver receives signals from the first board
